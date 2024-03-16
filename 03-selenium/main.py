@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import  time
 
 
-
+# The URL of the website
 url = 'http://adamchoi.co.uk/teamgoals/detailed'
 service = Service(executable_path='./chromedriver.exe')  # Path to the chromedriver.exe.
 """
