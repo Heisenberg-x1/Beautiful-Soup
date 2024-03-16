@@ -1,3 +1,3 @@
-# Beautiful-Soup
-
-- Web scraping with Python's beautiful soup
+# Web Scraping With Python
+- Check back some other time for more bricks :)
+  
